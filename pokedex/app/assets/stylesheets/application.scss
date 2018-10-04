@@ -103,3 +103,20 @@
    text-align: center;
    color: $black;
  }
+.poke-styling img {
+  width: 100px;
+  height: 100px;
+}
+ .poke-styling:hover img {
+   width: 140px;
+   height: 140px;
+ }
+
+ ul {
+    list-style-type: decimal-leading-zero;
+ }
+
+ .poke-styling:hover h2 {
+   color: green;
+   font-weight: 700;
+ }
